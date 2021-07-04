@@ -1,2 +1,3 @@
-# Validity-test-of-propositional-formula
+# 命题公式合法性检测
 命题公式合法性检测
+通过构建正则表达式进行合法性过滤 采用了一些基本的判断过滤相结合
